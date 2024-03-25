@@ -41,11 +41,17 @@ Full Subtractor:
 
 VERILOG CODE:
 
-----Type Verilog Code
+
 
 OUTPUT:
 
 -----Place a Waveform Generated from Xilinx ISE
 
 RESULT:
+
+Full adder:
+
+![full_adder_simulation](https://github.com/srinii-05/VLSI-LAB-EXP-1/assets/128348731/473dc37f-26fd-405d-81ae-090a3629e735)
+
+
 
