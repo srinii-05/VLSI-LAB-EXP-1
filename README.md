@@ -43,7 +43,8 @@ VERILOG CODE:
 
 Full adder:
 
-~~~module full_adder(sum,cout,a,b,c);
+~~~
+module full_adder(sum,cout,a,b,c);
 input a,b,c;
 output sum,cout;
     wire w1,w2,w3,w4,w5;
@@ -54,8 +55,8 @@ output sum,cout;
     and a3(w4,a,c);
     or o1(w5,w2,w3);
     or o2(cout,w5,w4);
-    
-endmodule~~~
+endmodule
+~~~
 
 
 
