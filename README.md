@@ -74,6 +74,21 @@ or o1(borrow,w4,w5,w6);
 endmodule
 
 ~~~
+
+Halfadder:
+
+~~~
+module half_adder(a,b,sum,carry);
+input a,b;
+output sum,carry; // sum and carry
+or(sum,a,b);
+and(carry,a,b);
+endmodule
+
+~~~
+
+![image](https://github.com/srinii-05/VLSI-LAB-EXP-1/assets/128348731/c1ac1cfc-199f-45b2-ae2f-359a4dcec661)
+
 ![image](https://github.com/srinii-05/VLSI-LAB-EXP-1/assets/128348731/efadaba8-30d6-4ee8-9069-42085058bbfa)
 
 
