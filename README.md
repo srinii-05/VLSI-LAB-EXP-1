@@ -58,6 +58,13 @@ output sum,cout;
 endmodule
 ~~~
 
+OUTPUT:
+
+Full adder:
+
+![full_adder_simulation](https://github.com/srinii-05/VLSI-LAB-EXP-1/assets/128348731/473dc37f-26fd-405d-81ae-090a3629e735)
+
+
 Full Subtractor:
 
 ~~~
@@ -75,6 +82,12 @@ endmodule
 
 ~~~
 
+OUTPUT:
+
+Full Subtractor:
+
+![full_subtractor_simulation](https://github.com/srinii-05/VLSI-LAB-EXP-1/assets/128348731/9dcd131f-28df-4322-a37f-9b4b0a9f1cd5)
+
 Halfadder:
 
 ~~~
@@ -87,16 +100,24 @@ endmodule
 
 ~~~
 
+OUTPUT:
+
+Halfadder:
+
+![half_adder_simulation](https://github.com/srinii-05/VLSI-LAB-EXP-1/assets/128348731/8d2351c3-366e-4263-81e2-c5050aa8c831)
+
+
+Logicgates:
+
+
+
 ![image](https://github.com/srinii-05/VLSI-LAB-EXP-1/assets/128348731/c1ac1cfc-199f-45b2-ae2f-359a4dcec661)
 
 ![image](https://github.com/srinii-05/VLSI-LAB-EXP-1/assets/128348731/efadaba8-30d6-4ee8-9069-42085058bbfa)
 
 
-OUTPUT:
 
-Full adder:
 
-![full_adder_simulation](https://github.com/srinii-05/VLSI-LAB-EXP-1/assets/128348731/473dc37f-26fd-405d-81ae-090a3629e735)
 
 
 
