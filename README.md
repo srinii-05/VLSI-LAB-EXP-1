@@ -189,7 +189,8 @@ endmodule
 
 OUTPUT:
 
-![Uploading Screenshot 2024-03-18 105953.png…]()
+![Screenshot 2024-03-18 105953](https://github.com/srinii-05/VLSI-LAB-EXP-1/assets/128348731/cb117fdb-3100-4e0a-94ef-54a5aeb30df1)
+
 
 
 
