@@ -1,9 +1,12 @@
-# VLSI-LAB-EXPERIMENTS
-AIM: To simulate and synthesis full adder,full subtractor,half adder,half subtractor,logic gates,ripplecarryadder_4bit,ripplecarryadder_8bit using vivado 2023.2.
+# VLSI-LAB-EXPERIMENTS-1
+**Simulation and Implementation of Logic Gates, Adders and Subtractors**
 
-APPARATUS REQUIRED: vivado 2023.2
+**AIM:** To simulate and synthesis full adder,full subtractor,half adder,half subtractor,logic gates,ripplecarryadder_4bit,ripplecarryadder_8bit using vivado 2023.2.
 
-PROCEDURE: 1. Open Vivado: Launch Xilinx Vivado software on your computer.
+**APPARATUS REQUIRED:** vivado 2023.2
+
+**PROCEDURE:**
+1. Open Vivado: Launch Xilinx Vivado software on your computer.
 
 2. Create a New Project: Click on "Create Project" from the welcome page or navigate through "File" > "Project" > "New".
 
@@ -183,5 +186,5 @@ OUTPUT:
 
 ![image](https://github.com/Desika11/VLSI-LAB-EXP-1/assets/165646570/44c4f0dd-abcf-410f-8ea5-8982c1b87244)
 
-RESULT:
+**RESULT:**
 Hence the simulation and synthesis of full adder,full subtractor,half adder,half subtractor,logic gates,ripplecarryadder_4bit,ripplecarryadder_8bit using vivado 2023.2. was successfully simulated using vivado.2023.3.
